@@ -1,0 +1,8 @@
+.round {
+  background-color: black;
+  padding: 0.25rem 0.6rem;
+  border-radius: 55px;
+  font-weight: bold;
+  font-size: medium;
+  color: white;
+}
